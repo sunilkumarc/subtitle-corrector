@@ -22,7 +22,7 @@ to come 1 seconds earlier in the video then you can run the command
 
 `corrector example.srt -1`
 
-If you want the subtitles to come 2 second later, then run the command
+If you want the subtitles to come 2 seconds later, then run the command
 
 `corrector example.srt 2`
 
